@@ -3,7 +3,7 @@
 use \App\Models\NewsModel;
 use CodeIgniter\Exceptions\PageNotFoundException;
 
-class NewsAdmiin extends BaseController
+class NewsAdmin extends BaseController
 {
     public function index()
     {
